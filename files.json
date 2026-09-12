@@ -10,13 +10,4 @@
     "release_id": 387647468,
     "asset_id": 559655287,
     "tag": "file-1789234068981-PEAKclient"
-  },
-  {
-    "name": "Test File",
-    "description": "Проверка моего сайта",
-    "category": "Другое",
-    "size": 1234567,
-    "date": "12.09.2026",
-    "url": "https://github.com/"
   }
-]
