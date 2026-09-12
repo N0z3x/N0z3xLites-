@@ -1,1 +1,10 @@
-
+[
+    {
+        "name": "Test File",
+        "description": "Проверка моего сайта",
+        "category": "Другое",
+        "size": 1234567,
+        "date": "12.09.2026",
+        "url": "https://github.com/"
+    }
+]
